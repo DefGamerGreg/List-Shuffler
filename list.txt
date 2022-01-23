@@ -1,0 +1,27 @@
+#My Chemistry Periodic Element memorization list 
+#(You can change these if you want)
+
+Zinc
+Sodium
+Nickel
+Tin (Il)
+Cadmium
+Iron (Il)
+Calcium
+Rubidium
+Thallium
+Copper (1)
+Beryllium
+Hydrogen
+Barium
+Mercury
+Cesium
+Cobalt
+Potassium
+Lithium
+Magnesium
+Strontium
+Copper (Il)
+Silver
+Lead (Il)
+Manganese
