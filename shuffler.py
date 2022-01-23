@@ -22,15 +22,15 @@ print('\n'+ '-----------------')
 shuffle()
 print('-----------------' + '\n')
 
-x = 1
-while x == 1:
+
+while True:
 	
-	q = str(input("Shuffle again? y/n:"))
-	if q == "n" or q == "N":
+	q = str(input("Shuffle again? y/n:")).lower()
+	if q == "n":
 		print ("exit")
 		quit()
 		
-	elif q == "y" or q == "Y":
+	elif q == "y":
 		print('\n'+ '-----------------')
 		shuffle()
 		print('-----------------' + '\n')
